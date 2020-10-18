@@ -41,5 +41,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosminmihai&theme=buefy&layout=compact" />
 </a>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;How to reach me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/cosmin-bodnariuc-b833a1159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cosmin%20Bodnariuc-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:atok3th@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atok3th@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
 
