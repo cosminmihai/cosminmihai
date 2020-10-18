@@ -1,5 +1,6 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cosminmihai&count_private=true">
+
 ### Hi there 👋
-![Cosmin's github stats](https://github-readme-stats.vercel.app/api?username=cosminmihai&count_private=true)
 <!--
 **cosminmihai/cosminmihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
