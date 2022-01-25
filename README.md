@@ -15,8 +15,6 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google)
