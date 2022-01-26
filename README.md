@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;How to reach me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cosmin-bodnariuc-b833a1159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cosmin%20Bodnariuc-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:atok3th@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atok3th@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:cosminmihaibodnariuc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atok3th@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
